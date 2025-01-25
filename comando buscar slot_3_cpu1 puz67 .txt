@@ -1,0 +1,1 @@
+./cacachave_s3c1 -m address -f tests/67.txt -r:4edc4b2a664d87604:4fca55374f1bd74a6 -l compress -s 10 -P checkpoint_67_s3c1.dat
